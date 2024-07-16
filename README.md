@@ -13,8 +13,9 @@
 สื่อสารและการทำงานของผู้พิการทางการได้ยินในสถานที่ทำงานและชีวิตประจำวันอย่างมี
 ประสิทธิภาพและสะดวกสบายมากขึ้น
 
-![Screenshot 2024-07-16 102113](https://github.com/user-attachments/assets/c1bf918e-8d02-43b6-9554-3508afa18e26)
 ![Screenshot 2024-07-16 102141](https://github.com/user-attachments/assets/bce78a7e-f9ca-4297-b191-f8297a3547c4)
+![Screenshot 2024-07-16 102113](https://github.com/user-attachments/assets/c1bf918e-8d02-43b6-9554-3508afa18e26)
+
 
 
 
